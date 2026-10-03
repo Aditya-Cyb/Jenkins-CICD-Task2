@@ -9,7 +9,7 @@ Jenkins, Docker, GitHub, and GitHub Webhooks.
 
 - **📄 Project Documentation:** [Task 2 Jenkins CI/CD Documentation](./Task_2_CICD_Documentation_Jenkins.docx)
 
-- **🚀 Application:** [Open Application](http://localhost:3001)
+- **🚀 Local Deployment:** [Open Application](http://localhost:3001)
 
 > **Deployment note:** The application is deployed locally through Docker on port `3001`. It is not a public internet deployment.
 
